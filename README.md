@@ -7,8 +7,8 @@
 # ‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎🇵🇸 🇵🇸
 
 
-Hi i'm Alaory😼 i am a self-taught software developer using kotlin as my frontend and c++ as a backend💻 .
-😼i starting programming in 2020 with c++. i like building useful apps that helps me with my day to day stuff🌶️
+Hi i'm Alaory i am a self-taught software developer using kotlin as my frontend and c++ as a backend💻 .
+i starting programming in 2020 with c++. i like building useful apps that helps me with my day to day stuff🌶️
 
 </br>
 
