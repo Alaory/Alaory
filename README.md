@@ -4,7 +4,7 @@
 </br>
 
 
-# 🇵🇸
+# 🇵🇸 🇵🇸
 
 
 Hi i'm Alaory😼 i am a self-taught software developer using kotlin as my frontend and c++ as a backend💻 .
