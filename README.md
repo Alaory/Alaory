@@ -1,18 +1,11 @@
 <div align="center">
-<img  width="20%" src="./ProfileGif.gif"/>
-
-</br>
-
-
-
-Hi i'm Alaory i am a self-taught software developer using kotlin as my frontend and c++ as a backend💻 .
-i starting programming in 2020 with c++. i like building useful apps that helps me with my day to day stuff🌶️
-
-</br>
-
-
-
-<img  width="40%" src="https://github-readme-stats.vercel.app/api?username=Alaory&show_icons=true&theme=radical"/>
-<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaory&hide=c&layout=compact"/>
-
+  <img width="150" src="./profile.jpg" alt="Profile Picture" />
+  
+  # Hi, I'm Alaory 👋
+  
+  **Linux user** 🐧 • **Arch + half broken laptop** • **Occasional bash scripting** • **Always learning something new**
+  
+  ---
+  
+  *Just a Linux user doing Linux things* 
 </div>
